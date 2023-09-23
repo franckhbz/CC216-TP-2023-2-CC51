@@ -6,7 +6,9 @@ El trabajo se ha realizado con el objetivo de extraer informacion sobre las rese
 Asimismo, los autores de este analisis buscan mejorar sus capacidades y habilidades en el analisis exploratorio de Datos
 
 Nombre de los Participantes del trabajo:
+
 -Jhonny Elias Ruiz Santos
+
 -Franck Manuel Goñas Lopez
 
 Descripcion del dataset
